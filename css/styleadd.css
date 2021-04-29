@@ -10,3 +10,8 @@
     background-color: #881e81 !important;
     border: #881e81 solid 1px;
 }
+
+.hr {
+    border: 2px solid white;
+    background-color: white;
+}
