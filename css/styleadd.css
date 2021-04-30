@@ -15,3 +15,21 @@
     border: 2px solid white;
     background-color: white;
 }
+
+/* css autocomplete search */
+.has-search .form-control {
+    padding-left: 40px;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    top: 5px;
+    left: 4px;
+    z-index: 2;
+    display: block;
+    width: 1.6rem;
+    height: 1.6rem;
+    /* line-height: 2.375rem; */
+    text-align: center;
+    /* pointer-events: none; */
+    color: #781ea8;
+}

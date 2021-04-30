@@ -8,6 +8,7 @@ $(document).ready(function() {
     "lengthMenu": [[5, 25, 50, -1], [5, 25, 50, "All"]]
   } );
 } );
+
 $(document).ready(function() {
   $('#dataKegiatan').DataTable( {
     "lengthMenu": [[5, 25, 50, -1], [5, 25, 50, "All"]],
