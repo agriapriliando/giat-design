@@ -33,3 +33,22 @@
     /* pointer-events: none; */
     color: #781ea8;
 }
+
+/* datatable search column */
+tfoot input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+table.dataTable th {
+    font-size: 0.8em;
+}
+
+table.dataTable td {
+    font-size: 1em;
+}
+
+/* table.dataTable tr.dtrg-level-0 td {
+    font-size: 1.1em;
+} */
